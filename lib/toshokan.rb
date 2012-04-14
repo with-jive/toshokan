@@ -1,5 +1,5 @@
-require "toshokan/version"
+require 'toshokan/version'
+require 'toshokan/admin'
 
 module Toshokan
-  # Your code goes here...
 end
