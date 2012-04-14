@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Introduce the desired component to your rails_admin.rb initializer.
 
 ## Development
 
